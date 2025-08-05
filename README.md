@@ -2,7 +2,7 @@
 
 A full-stack job tracking application built with **Angular** and **Flask**, designed to help users efficiently organize, track, and manage their job applications in one place.
 
-## 🚀 Features
+##  Features
 
 -  **Search Applications** – Instantly filter jobs by company name.
 -  **Sort by Date Applied** – Automatically organize job entries by application date.
@@ -10,13 +10,13 @@ A full-stack job tracking application built with **Angular** and **Flask**, desi
 -  **Collapsible Job Cards** – Expand or collapse each card to view or hide job details.
 -  **File Uploads** – Upload and manage resumes or cover letters for each job.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend:** Angular (using standalone components)
 - **Backend:** Flask (Python)
 - **Database:** SQLite
 
-## 🧪 How to Run the Project
+##  How to Run the Project
 
 ### Frontend (Angular)
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 flask run
 ```
 
-## 📁 File Uploads
+##  File Uploads
 
 Each job entry allows for optional file attachments:
 - Resume (PDF or DOCX)
