@@ -1,0 +1,22 @@
+# Node modules
+frontend/node_modules/
+
+# Angular build files
+frontend/dist/
+frontend/.angular/
+
+# Python cache
+backend/__pycache__/
+*.pyc
+
+# Virtual environment
+backend/venv/
+
+# Environment variables and secrets
+.env
+
+# SQLite database
+backend/database.db
+
+# VS Code settings
+.vscode/
